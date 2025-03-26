@@ -1,0 +1,15 @@
+{
+  "name": "instagram-downloader-api",
+  "version": "1.0.0",
+  "description": "API untuk mengunduh media Instagram",
+  "main": "index.js",
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
